@@ -1,0 +1,7 @@
+
+.remove-todo {
+    display: inline-block;
+    text-align: right;
+    margin-left: 20px;
+    cursor: pointer;
+}
